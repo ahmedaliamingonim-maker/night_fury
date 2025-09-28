@@ -1,2 +1,274 @@
-# Auto detect text files and perform LF normalization
-* text=auto
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>NIGHT FURY</title>
+</head>
+<body>
+    <center><h1><u>NIGHT FURY</u></h1></center>
+    
+    <h2>Night Fury – The Legendary Dragon</h2>
+    <p>
+        The Night Fury is one of the most mysterious and rare dragon species in the How to Train Your Dragon franchise. 
+        Known for its unmatched speed, intelligence, and power, the Night Fury quickly became the most feared and respected 
+        dragon in the Viking world.
+    </p>
+
+    <h4>
+        The most famous Night Fury is Toothless, the loyal companion of Hiccup Horrendous Haddock III. Unlike most dragons,
+        Toothless shows a deep emotional bond with his rider, proving that dragons are not just wild beasts but intelligent 
+        creatures capable of friendship and trust.
+    </h4>
+
+    <p>
+        <sup><b>Night Furies</b></sup> are recognizable by their sleek black scales, cat-like eyes, and retractable teeth. 
+        They can fly faster than any other dragon and shoot plasma blasts with incredible accuracy. Their ability to blend 
+        into the night sky makes them nearly invisible during flight, earning them the title “the unholy offspring of lightning 
+        and death itself.”
+    </p>
+    
+    <hr>
+    <center><h2><u>TOOTHLESS</u></h2></center>
+    <p>
+        Beyond their fearsome abilities, the Night Fury symbolizes loyalty, bravery, and the strength of understanding between 
+        different worlds. Through Hiccup and Toothless’s journey, the Night Fury represents not just power, but also the importance 
+        of trust, empathy, and peace.
+    </p>
+    <hr>
+
+    <img title="night fury" height="400" src="night fury.png" alt="t-shirt">
+    <h2><i>Before</i> price = <del>350</del></h2>
+    <h2><i>After</i> price = <mark>300</mark></h2>
+    
+    <hr>
+    <audio controls loop>
+        <source src="عمرو دياب ياما.mp3.m4a">
+        <source src="عمرو دياب ياما.wav.m4a">
+        <source src="عمرو دياب ياما.ogg.m4a">
+    </audio>
+
+    <hr>
+    <video height="400" controls loop poster="wallpaperflare.com_wallpaper.jpg">
+        <source src="HowtoTrainYourDragon2010.mp4">
+    </video>
+
+    <hr>
+    <table border="3">
+        <caption>THE DRAGON</caption>
+        <thead>
+            <tr>
+                <th>Night Fury</th>
+                <th>Light Fury</th>
+                <th>Deadly Nadder</th>
+            </tr>
+        </thead>
+        <tbody>
+            <tr>
+                <td>Rarest dragon species</td>
+                <td>Very fast and graceful</td>
+                <td>Bright colorful appearance</td>
+            </tr>
+            <tr>
+                <td>The speed</td>
+                <td>Disappearance</td>
+                <td>Thorns</td>
+            </tr>
+        </tbody>
+    </table>
+
+    <hr><hr>
+    <ul>
+        <li>Night Fury</li>
+        <li>Light Fury</li>
+        <li>Deadly Nadder</li>
+        <li>Monstrous Nightmare</li>
+    </ul>
+
+    <hr><hr>
+    <ol>
+        <li>Night Fury</li>
+        <li>Light Fury</li>
+        <li>Deadly Nadder</li>
+        <li>Monstrous Nightmare</li>
+    </ol>
+
+    <hr><hr>
+    <dl>
+        <dt><i><u>Night Fury</u></i></dt>
+        <dd>He is the dragon of speed and fury who knows no mercy. My favorite dragon.</dd>
+    </dl>
+
+    <hr><hr>
+    <a target="_blank" href="https://www.google.com/search?q=how+to+train+your+dragon+4">The Dragon</a>
+    <br><br>
+    <a target="_blank" href="https://www.google.com/search?q=how+to+train+your+dragon+4">
+        <img height="200" src="wallpaperflare.com_wallpaper.jpg" alt="dragon wallpaper">
+    </a>
+
+    <hr><hr>
+    <section>
+        <a href="#1">Night Fury</a><br>
+        <a href="#2">Light Fury</a><br>
+        <a href="#3">Deadly Nadder</a><br>
+        <a href="#4">Hideous Zippleback</a><br>
+
+        <h2 id="1">Night Fury</h2>
+        <p>The Night Fury is one of the most mysterious and rare dragon species...</p>
+
+        <hr><hr>
+        <h2 id="2">Light Fury</h2>
+        <p>The Light Fury is the female counterpart of the Night Fury...</p>
+
+        <hr><hr>
+        <h2 id="3">Deadly Nadder</h2>
+        <p>The Deadly Nadder is one of the most elegant and colorful dragon species...</p>
+
+        <hr><hr>
+        <h2 id="4">Hideous Zippleback</h2>
+        <p>The Hideous Zippleback is one of the most unusual dragon species...</p>
+    </section>
+
+    <hr><hr>
+    <a href="mailto:ahmedaliamingonim@gmail.com">Email</a><br>
+    <a href="tel:01207867830">Phone Number</a>
+
+    <hr><br>
+    <fieldset>
+        <legend>Login</legend>
+        <form method="post">
+            <div>
+                <label for="10">User Name</label>
+                <input id="10" type="text" placeholder="User Name" name="user" required>
+            </div>
+
+            <div>
+                <label for="11">Password</label>
+                <input id="11" type="password" placeholder="Password" name="pass" required>
+            </div>
+
+            <div>
+                <input type="submit" value="Click">
+            </div>
+        </form>
+    </fieldset>
+
+    <br><hr>
+    <form>
+        <div>
+            <label for="15">Color</label>
+            <input id="15" type="color">
+        </div>
+
+        <br><hr>
+        <div>
+            <label for="20">Photo</label>
+            <input id="20" type="file">
+        </div>
+
+        <br><hr>
+        <div>
+            <label for="25">Range</label>
+            <input id="25" type="range" max="100" step="2" value="50">
+        </div>
+
+        <br><hr>
+        <div>
+            <label for="30">Search</label>
+            <input id="30" type="search">
+            <button type="submit">Click</button>
+            <button type="reset">Reset</button>
+        </div>
+
+        <br><hr>
+        <div>
+            <label for="31">Link</label>
+            <input id="31" type="url">
+        </div>
+
+        <br><hr>
+        <div>
+            <label for="32">Date</label>
+            <input id="32" type="date">
+        </div>
+
+        <hr><br>
+        <h2>Do you like Night Fury?</h2>
+        <div>
+            <input id="40" type="radio" value="yes" name="choose">
+            <label for="40">Yes</label>
+        </div>
+        <div>
+            <input id="41" type="radio" value="no" name="choose">
+            <label for="41">No</label>
+        </div>
+
+        <hr><br>
+        <h2>What do you like about How to Train Your Dragon?</h2>
+        <div>
+            <input id="43" type="checkbox" value="Light Fury" name="choose">
+            <label for="43">Light Fury</label>
+        </div>
+        <div>
+            <input id="50" type="checkbox" value="Deadly Nadder" name="choose">
+            <label for="50">Deadly Nadder</label>
+        </div>
+        <div>
+            <input id="51" type="checkbox" value="Hideous Zippleback" name="choose">
+            <label for="51">Hideous Zippleback</label>
+        </div>
+        <input type="submit" value="Click">
+
+        <hr><br>
+        <label for="100">What is your country?</label>
+        <select multiple name="country" id="100">
+            <optgroup label="Africa">
+                <option value="egy">Egypt</option>
+                <option selected value="mor">Morocco</option>
+                <option value="alg">Algeria</option>
+            </optgroup>
+            <optgroup label="Asia">
+                <option value="jor">Jordan</option>
+                <option selected value="uae">UAE</option>
+                <option value="usa">USA</option>
+            </optgroup>
+        </select>
+        <input type="submit" value="Click">
+
+        <hr><br>
+        <input list="99" name="lage">
+        <datalist id="99">
+            <option value="Egypt">
+            <option value="Ecuador">
+            <option value="Eswatini">
+            <option value="Algeria">
+            <option value="Angola">
+            <option value="France">
+            <option value="Finland">
+        </datalist>
+        <input type="submit">
+
+        <br><hr>
+        <div>
+            <input placeholder="Night Fury" autofocus disabled type="text">
+        </div>
+
+        <div>
+            <textarea required name="content" placeholder="Content..."
+                cols="50" rows="10" maxlength="100" minlength="10"></textarea>
+        </div>
+        <input type="submit">
+    </form>
+
+    <hr><br>
+    <iframe width="800" height="700" frameborder="1" src="https://www.wikipedia.org/"></iframe>
+    <br><hr>
+    <object width="800" height="700" data="https://en.wikipedia.org/wiki/Al_Masry_SC"></object>
+    <br><hr>
+    <embed width="800" height="700" src="https://www.fcbarcelona.com/en/">
+
+    <br><hr>
+    <a download="اغنيه ياما عمرو دياب" href="عمرو دياب ياما.mp3.m4a">اغنيه ياما عمرو دياب</a>
+    <br><hr>
+    <a download="فلم HowtoTrainYourDragon2010" href="HowtoTrainYourDragon2010.mp4">فلم HowtoTrainYourDragon2010</a>
+</body>
+</html>
